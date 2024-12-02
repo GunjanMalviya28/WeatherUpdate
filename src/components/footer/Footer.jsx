@@ -21,11 +21,11 @@ function Footer() {
       <p className={styles.info}>Designed and Coded by :</p>
       <p>
         <sup>&#169; </sup>
-        {currentYear} <span className={styles.myName}>Abdelrahman Alsayed</span>
+        {currentYear} <span className={styles.myName}>Gunjan Malviya</span>
       </p>
       <div className={styles.links}>
         <a
-          href="https://www.linkedin.com/in/abdelrahman-alsayed-b312311a0/"
+          href="https://www.linkedin.com/in/gunjan-malviya-77888b232/"
           title="Author LinkedIn account"
           target="_blank"
           rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
           <FaLinkedin />
         </a>
         <a
-          href="https://github.com/AbdelrahmanAlsayed"
+          href="https://github.com/GunjanMalviya28"
           title="Author github account"
           target="_blank"
           rel="noopener noreferrer"
